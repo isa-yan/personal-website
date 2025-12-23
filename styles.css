@@ -1,0 +1,159 @@
+h3{
+    margin-left:20%;
+    margin-right:20%;
+    display:inline;
+    font-size:50px;
+    color:rgb(0, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    padding-left:20%;
+    padding-right:20%;
+    text-emphasis: none;
+    border-style:solid;
+    color:rgb(0, 0, 0);
+    border-width:3px;
+    background-color:white;
+    padding-top:3%;
+    padding-bottom:3%;
+    margin:0%;
+    -webkit-text-fill-color: black;
+}
+
+h5{
+    padding-left:20%
+}
+
+ol{
+    padding-left:22%;
+    padding-right:22%;
+    font-size:15px;
+    font-size:18px;
+    color:rgb(17, 0, 255);
+
+}
+
+.fun-facts{
+    border-style:none;
+    -webkit-text-fill-color:rgb(255, 0, 0);
+    border-width:3px;
+    background-color:rgb(255, 255, 0);
+    padding-top:3%;
+    padding-bottom:3%;
+    margin:0%;
+}
+
+.interesting{
+    border-style:none;
+    -webkit-text-fill-color: green;
+    background-color:bisque;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin:0%;
+    border-left-width:0px;
+    border-right-width:0px;
+}
+
+.lang{
+    border-style:none;
+    -webkit-text-fill-color: rgb(72, 0, 255);
+    background-color:rgb(209, 146, 212);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin:0%;
+}
+
+.love{
+    border-style:none;
+    -webkit-text-fill-color: aliceblue;
+    background-color:black;
+    padding-top:3%;
+    padding-bottom:3%;
+    margin:0%
+}
+
+body{
+    background-color: hotpink;
+    color:rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    padding-left:20%;
+    padding-right:20%;
+    color:rgb(0, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:24px;
+}
+
+ul{
+    padding-left:22%;
+    padding-right:20%;
+    font-size:18px;
+    color:rgb(0, 255, 255);
+}
+
+
+a{
+    color:rgb(104, 255, 116);
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:hover{
+    color:red;
+    background-color:azure;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.high-thoughts{
+   padding:0%;
+   font-family: 'Courier New',Courier,monospace;
+   -webkit-text-fill-color: rgb(255,0,242) ;
+   border-style:solid;
+   margin-left:20%;
+   margin-right:20%;
+   color:rgb(255, 0, 242);
+   border-radius:5px;
+   background-color:rgb(255, 0, 242);
+}
+
+
+.high-thoughts:hover{
+    background-color:white;
+}
+
+.Sillyp{
+    background-color:hotPink;
+}
+
+.default-padding{
+    padding-left: 20%;
+    padding-right:20%;
+}
+
+.burneye{
+    color:rgb(255, 0, 225);
+    color:rgb(0, 255, 255);
+    font-family:"cursive";
+    background-color:hotpink;
+}
+
+.navbar{
+    border-style:solid;
+    border-color:aqua;
+    background-color:rgb(255, 0, 0);
+    padding:1%;
+    margin:0%;
+}
+
+.game{
+    color:rgb(142, 255, 255)
+}
+
+h1{
+    font-size:100px;
+    text-align:center;
+    color:red
+}
